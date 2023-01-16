@@ -153,7 +153,7 @@ st.write(
 # --- JOB 5
 st.write('\n')
 st.write("🚧", "**INTERNAL SEMINAR SPEAKER | Telkom University Faculty of Informatics**")
-st.write("02/2022 - 07/2022")
+st.write("09/2022")
 st.write(
     """
 - ► Presented the journal publications Classification Analysis using CNN and LSTM on Wheezing Sounds
