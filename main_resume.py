@@ -25,7 +25,7 @@ SOCIAL_MEDIA = {
 }
 PROJECTS = {
     "🏆 Classification Analysis using CNN and LSTM on Wheezing Sounds - International Journal on Information and Communication Technology (IJoICT)": "https://socj.telkomuniversity.ac.id/ojs/index.php/ijoict/article/view/621",
-    "🏆 AIRBNB Singapore Listing Analysis Project - Final Project of DQLAB Data Analyst Bootcamp": "bit.ly/gustav_airbnb",
+    "🏆 AIRBNB Singapore Listing Analysis Project - Final Project of DQLAB Data Analyst Bootcamp": "https://gustavsmnt-airbnb-project-project-airbnb-uszn1j.streamlit.app/",
     
 }
 
