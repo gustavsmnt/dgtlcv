@@ -87,6 +87,7 @@ cols[2].write("📩gustavsmnt@gmail.com")
 # --- SKILLS ---
 st.write('\n')
 st.subheader("Hard Skills")
+st.write("---")
 st.write(
     """
 - 👩‍💻 Programming: Python, SQL, Pascal, C++, LaTeX
@@ -163,7 +164,7 @@ st.write(
 # --- EDUCATION ---
 st.write('\n')
 st.subheader("Education")
-
+st.write("---")
 st.write('\n')
 st.write("🎓", "**COMPUTER SCIENCE BACHELOR DEGREE, Telkom University**")
 st.write("2015 - 2022")
