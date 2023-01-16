@@ -87,7 +87,6 @@ cols[2].write("📩gustavsmnt@gmail.com")
 # --- SKILLS ---
 st.write('\n')
 st.subheader("Hard Skills")
-st.write("---")
 st.write(
     """
 - 👩‍💻 Programming: Python, SQL, Pascal, C++, LaTeX
@@ -95,12 +94,12 @@ st.write(
 - 🗄️ Databases: Oracle, MySQL, Postgre
 """
 )
-
+st.write("---")
 
 # --- WORK HISTORY ---
 st.write('\n')
 st.subheader("Experience")
-st.write("---")
+
 
 # --- JOB 1
 st.write("🚧", "**PRODUCTION SYSTEM INTERNSHIP | PT. Suzuki Indomobil Motor Indonesia**")
@@ -160,11 +159,11 @@ st.write(
 
 """
 )
-
+st.write("---")
 # --- EDUCATION ---
 st.write('\n')
 st.subheader("Education")
-st.write("---")
+
 st.write('\n')
 st.write("🎓", "**COMPUTER SCIENCE BACHELOR DEGREE, Telkom University**")
 st.write("2015 - 2022")
@@ -174,10 +173,10 @@ st.write(
 - ► 517 points of English Proficiency Test on Telkom University (B1 CEFR)
 """
 )
-
+st.write("---")
 # --- Projects & Accomplishments ---
 st.write('\n')
 st.subheader("Projects & Publication")
-st.write("---")
+
 for project, link in PROJECTS.items():
     st.write(f"[{project}]({link})")
